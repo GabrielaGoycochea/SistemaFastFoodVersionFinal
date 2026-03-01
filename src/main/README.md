@@ -73,7 +73,7 @@ El sistema ProyectoFastFoodFinal es una interfaz, vinculada a una base de datos 
 
 ````
 
-# com.duoc.Sistema.FastFood.Interfaz.App
+# com.duoc.Sistema.FastFood.Interfaz.Final
 
 El sistema contiene 4 paquetes Conexion - Gestor - Model - UI
 
@@ -103,7 +103,7 @@ Aplicacion funciona vinculando la información a una base de datos SQL
 1. Clona el repositorio desde GitHub:
 
 ```bash
-git clone https://github.com/GabrielaGoycochea/FastFoodAppInterfazBBDD.git
+git clone https://github.com/GabrielaGoycochea/SistemaFastFoodVersionFinal.git
 ```
 
 2. Abre el proyecto en IntelliJ IDEA.
@@ -115,8 +115,8 @@ git clone https://github.com/GabrielaGoycochea/FastFoodAppInterfazBBDD.git
 
 ---
 
-**Repositorio GitHub:** https://github.com/GabrielaGoycochea/FastFoodAppInterfazBBDD.git
-**Fecha de entrega:** 22/02/2026
+**Repositorio GitHub:** https://github.com/GabrielaGoycochea/SistemaFastFoodVersionFinal.git
+**Fecha de entrega:** 01/03/2026
 
 ---
 
