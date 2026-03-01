@@ -11,7 +11,7 @@
 
 ## 📘 Descripción general del sistema
 
-El sistema FastFoodAppInterfazBD es una interfaz, vinculada a una base de datos sql, donde refleja un menu de iteración con el usuario, es posible realizar 5 acciones:
+El sistema ProyectoFastFoodFinal es una interfaz, vinculada a una base de datos sql, donde refleja un menu de iteración con el usuario, es posible realizar 5 acciones:
 - Registrar Pedido
 - Registrar Entrega (manual)
 - Lista de Pedidos
@@ -25,13 +25,13 @@ El sistema FastFoodAppInterfazBD es una interfaz, vinculada a una base de datos 
 
 ```plaintext
 
- FastFoodAppInterfazBD
+ ProyectoFastFoodFinal
  ├── .idea/
  ├── .mvn
  ├── src/
  │    ├── main
  │    │     ├── java
- │    │     │    └──com.duoc.Sistema.FastFood.Interfaz.App
+ │    │     │    └──com.duoc.Sistema.FastFood.Interfaz.Final
  │    │     │             ├──Conexion
  │    │     │             │     └──ConexionBBDD
  │    │     │             │     
